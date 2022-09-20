@@ -1,32 +1,32 @@
 .statistics {
-	width: 335px;
+  width: 335px;
   margin: auto;
   border: solid 1px;
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
   margin-top: 20px;
 }
 
 .title {
   font-size: 24px;
-	color: #333333;
+  color: rgb(96 96, 96);
   text-transform: uppercase;
-	text-align: center;
+  text-align: center;
   margin-top: 30px;
   margin-bottom: 25px;
 }
 
-.stat_list{
+.stat_list {
   height: 60px;
   display: flex;
   list-style: none;
 }
 
-.item{
+.item {
   width: 70px;
   border: solid 1px teal;
 }
 
-.label{
+.label {
   margin-top: 5px;
   margin-bottom: 5px;
   text-align: center;
@@ -34,7 +34,7 @@
   justify-content: space-evenly;
 }
 
-.percentage{
+.percentage {
   font-size: 16px;
   text-align: center;
   display: flex;

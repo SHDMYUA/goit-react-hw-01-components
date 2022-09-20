@@ -1,22 +1,22 @@
 .transaction_history {
-  color: black;
+  color: rgb(0, 0, 0);
   width: 500px;
   border-collapse: collapse;
-  border: 1px solid grey;
+  border: 1px solid rgb(96, 96, 96);
   text-align: center;
-  margin: auto auto;
+  margin: 0px auto 15px auto;
 }
 
 th {
-  border: 1px solid grey;
-  background-color: #00bcd4;
-  color: white;
+  border: 1px solid rgb(96, 96, 96);
+  background-color: rgb(96, 96, 96);
+  color: rgb(255, 255, 255);
   font-weight: 600;
   font-size: 15px;
   padding: 10px 0 10px 0;
 }
 td {
-  border: 1px solid grey;
+  border: 1px solid rgb(96, 96, 96);
   font-weight: 300;
   font-size: 13px;
   padding: 5px 0 5px 0;
